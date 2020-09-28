@@ -12,5 +12,5 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://flightflypredict.herokuapp.com/predict](https://flightflypredict.herokuapp.com/predict)
 
